@@ -6,10 +6,10 @@ public class JoinLists {
     public static void main(String[] args) {
 
         List<String> list1 = new ArrayList<String>();
-        list1.add("a");
+        list1.add("b");
 
         List<String> list2 = new ArrayList<String>();
-        list2.add("b");
+        list2.add("c");
 
         List<String> joined = new ArrayList<String>();
 
